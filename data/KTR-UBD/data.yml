@@ -1,7 +1,0 @@
-platform: SuperNES
-releases:
-- regions:
-  - JP
-  id: 000400000F706200
-  name: カービィのきらきらきっず
-  updates: []

@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001D1700
-  name: リンク絵 Link-a-Pix
-  updates: []

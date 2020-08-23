@@ -1,7 +1,0 @@
-platform: GameBoy
-releases:
-- regions:
-  - JP
-  id: 0004000000069900
-  name: 怒りの要塞2
-  updates: []

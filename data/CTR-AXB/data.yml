@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - EU
-  id: 00040000000F7B00
-  name: 'Inazuma Eleven® 3: Bomb Blast'
-  updates: []

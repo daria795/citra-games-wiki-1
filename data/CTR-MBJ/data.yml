@@ -1,7 +1,0 @@
-platform: DownloadableVideo
-releases:
-- regions:
-  - EU
-  id: 00040000000F2700
-  name: Shaun the Sheep (episode 1-5)
-  updates: []

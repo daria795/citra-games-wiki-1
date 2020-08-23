@@ -1,7 +1,0 @@
-platform: NES
-releases:
-- regions:
-  - JP
-  id: 00040000000CAA00
-  name: フィールドコンバット
-  updates: []

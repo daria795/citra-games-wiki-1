@@ -1,9 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000001C3100
-  name: ベイブレードバースト ゴッド
-  updates:
-  - id: 0004000E001C3100
-    name: 更新データ Ver. 1.1 ベイブレードバースト ゴッド

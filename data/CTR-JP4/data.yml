@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000000BF900
-  name: ぷよぷよ!!ミニバージョン
-  updates: []

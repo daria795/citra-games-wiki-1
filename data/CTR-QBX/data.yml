@@ -1,8 +1,0 @@
-platform: GameBoyColor
-releases:
-- regions:
-  - EU
-  - US
-  id: 0004000000172E00
-  name: Pokémon™ Crystal Version (French Version)
-  updates: []

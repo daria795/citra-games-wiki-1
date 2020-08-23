@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - EU
-  id: 00040000000F6700
-  name: Putty Squad
-  updates: []

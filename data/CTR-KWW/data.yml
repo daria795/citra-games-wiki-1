@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001B8400
-  name: イモムシウォーズ
-  updates: []

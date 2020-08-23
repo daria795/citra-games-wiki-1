@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 000400000012FB00
-  name: ガンダムトライエイジSP
-  updates: []

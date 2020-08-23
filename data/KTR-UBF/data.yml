@@ -1,7 +1,0 @@
-platform: SuperNES
-releases:
-- regions:
-  - JP
-  id: 000400000F706400
-  name: スーパーファミコンウォーズ
-  updates: []

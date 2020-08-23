@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000000F5100
-  name: 三國志
-  updates: []

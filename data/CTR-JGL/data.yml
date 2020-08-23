@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 0004000000064400
-  name: おきらくゴルフ3D
-  updates: []

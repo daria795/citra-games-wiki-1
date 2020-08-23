@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001A4B00
-  name: 動物戦隊ジュウオウジャー バトルキューブパズル
-  updates: []

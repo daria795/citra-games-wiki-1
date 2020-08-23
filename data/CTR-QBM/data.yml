@@ -1,8 +1,0 @@
-platform: GameBoyColor
-releases:
-- regions:
-  - JP
-  - TW
-  id: 0004000000172400
-  name: ポケットモンスター 銀
-  updates: []

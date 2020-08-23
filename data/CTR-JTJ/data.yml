@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 000400000012A200
-  name: あしあとリバーシ くまモンバージョン
-  updates: []

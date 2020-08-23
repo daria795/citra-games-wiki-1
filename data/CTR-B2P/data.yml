@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000001C9A00
-  name: アイドルタイムプリパラ 夢オールスターライブ！
-  updates: []

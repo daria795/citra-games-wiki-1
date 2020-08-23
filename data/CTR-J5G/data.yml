@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001BBA00
-  name: ザ・ゲーム１５
-  updates: []

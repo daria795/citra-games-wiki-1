@@ -1,7 +1,0 @@
-platform: GameGear
-releases:
-- regions:
-  - JP
-  id: 000400000010B500
-  name: なぞぷよ アルルのルー
-  updates: []

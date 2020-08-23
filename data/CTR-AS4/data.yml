@@ -1,7 +1,0 @@
-platform: Old3dsRetailOnly
-releases:
-- regions:
-  - EU
-  id: 000400000005A900
-  name: The Sims™ 3 Pets
-  updates: []

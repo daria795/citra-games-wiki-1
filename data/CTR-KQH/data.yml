@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001C3900
-  name: ドラゴンクエストⅢ そして伝説へ…
-  updates: []

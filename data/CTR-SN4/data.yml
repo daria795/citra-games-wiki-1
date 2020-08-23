@@ -1,7 +1,0 @@
-platform: DownloadableVideo
-releases:
-- regions:
-  - US
-  id: 00040000000BE300
-  name: 'Kid Icarus: Uprising Montage '
-  updates: []

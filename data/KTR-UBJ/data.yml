@@ -1,7 +1,0 @@
-platform: SuperNES
-releases:
-- regions:
-  - JP
-  id: 000400000F706B00
-  name: ライブ・ア・ライブ
-  updates: []

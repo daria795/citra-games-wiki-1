@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 0004000000053700
-  name: エクストルーパーズ
-  updates: []

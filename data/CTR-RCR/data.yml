@@ -1,8 +1,0 @@
-platform: GameBoy
-releases:
-- regions:
-  - EU
-  - US
-  id: 0004000000171100
-  name: Pokémon™ Blue Version (English Version)
-  updates: []

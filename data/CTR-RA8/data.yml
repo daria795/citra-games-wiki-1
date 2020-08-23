@@ -1,7 +1,0 @@
-platform: GameBoy
-releases:
-- regions:
-  - JP
-  id: 0004000000050F00
-  name: ヘラクレスの栄光 動き出した神々
-  updates: []

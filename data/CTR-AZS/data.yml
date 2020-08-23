@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000000C0000
-  name: 星霜のアマゾネス
-  updates: []

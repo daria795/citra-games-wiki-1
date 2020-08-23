@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000001A7400
-  name: 実況パワフルプロ野球 ヒーローズ
-  updates: []

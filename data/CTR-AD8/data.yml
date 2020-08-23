@@ -1,7 +1,0 @@
-platform: Old3dsRetailOnly
-releases:
-- regions:
-  - JP
-  id: 00040000000A1E00
-  name: ちび☆デビ!
-  updates: []

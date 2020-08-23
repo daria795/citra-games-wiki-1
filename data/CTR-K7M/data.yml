@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - EU
-  id: 00040000001DCE00
-  name: Maze Breaker 2
-  updates: []

@@ -1,8 +1,0 @@
-platform: GameBoy
-releases:
-- regions:
-  - EU
-  - US
-  id: 0004000000171600
-  name: Pokémon™ Red Version (French Version)
-  updates: []

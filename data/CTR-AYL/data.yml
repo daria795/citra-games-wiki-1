@@ -1,7 +1,0 @@
-platform: Old3dsRetailOrDownload
-releases:
-- regions:
-  - JP
-  id: 00040000000FA700
-  name: Fate/kaleid liner プリズマ☆イリヤ
-  updates: []

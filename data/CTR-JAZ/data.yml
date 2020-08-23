@@ -1,7 +1,0 @@
-platform: Old3dsDownloadOnly
-releases:
-- regions:
-  - JP
-  id: 00040000000E9500
-  name: ニコリのパズル ナンバーリンク
-  updates: []

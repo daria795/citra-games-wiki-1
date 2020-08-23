@@ -1,7 +1,0 @@
-platform: NES
-releases:
-- regions:
-  - JP
-  id: 0004000000100400
-  name: Chack'n Pop
-  updates: []

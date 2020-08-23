@@ -1,7 +1,0 @@
-platform: NES
-releases:
-- regions:
-  - JP
-  id: 0004000000099000
-  name: ファイアーエムブレム 暗黒竜と光の剣
-  updates: []

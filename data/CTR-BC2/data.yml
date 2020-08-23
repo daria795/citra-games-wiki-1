@@ -1,7 +1,0 @@
-platform: Old3dsRetailOnly
-releases:
-- regions:
-  - JP
-  id: 00040000001AD400
-  name: ハコボーイ！ ハコづめＢＯＸ
-  updates: []
